@@ -1,0 +1,13 @@
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\bin\Debug\Work.exe.config
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\bin\Debug\Work.exe
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\bin\Debug\Work.pdb
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.csproj.AssemblyReference.cache
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.Properties.Resources.resources
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.csproj.GenerateResource.cache
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.csproj.CoreCompileInputs.cache
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.exe
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.pdb
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.Form1.resources
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.Frm_principal.resources
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.Frm_Cadastrar.resources
+C:\Users\Celestina Miranda\Desktop\Avaliação tlp\Work\Work\obj\Debug\Work.Frm_encomendar.resources
